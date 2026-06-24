@@ -9,7 +9,7 @@
   "maintenance_mode": false,
   "maintenance_message": "Server Nebula Arena sedang pemeliharaan berkala.",
   
-  "show_alert_dialog": true,
+  "show_alert_dialog": true",
   "alert_title": "Pemberitahuan Khusus",
   "alert_message": "Dapatkan skin gratis dengan menyelesaikan tutorial hari ini!",
   
