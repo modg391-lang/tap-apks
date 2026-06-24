@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 190,
-  "latest_version_name": "1.90",
-  "version_code": 190,
-  "version_name": "1.90",
+  "latest_version_code": 120,
+  "latest_version_name": "1.20",
+  "version_code": 120,
+  "version_name": "1.20",
   "force_update": true,
-  "update_message": "update"
+  "update_message": ""
 }
