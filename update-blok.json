@@ -1,7 +1,7 @@
 {
   "latest_version_code": 2,
   "latest_version_name": "1.272726",
-  "force_update": false,
+  "force_update": true,
   "update_title": "Game Update Diperlukan",
   "update_message": "Selamat datang kembali! Menemukan versi game terbaru di database kami. Silakan update agar sinkron dengan global multiplayer server arena.",
   "download_url": "https://msha.ke/tapapks",
@@ -9,7 +9,7 @@
   "maintenance_mode": false,
   "maintenance_message": "Server Nebula Arena sedang pemeliharaan berkala.",
   
-  "show_alert_dialog": true,
+  "show_alert_dialog": false,
   "alert_title": "Pemberitahuan Khusus",
   "alert_message": "Dapatkan skin gratis dengan menyelesaikan tutorial hari ini!",
   
