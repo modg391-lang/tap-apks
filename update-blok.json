@@ -7,7 +7,7 @@
     "download_url": "https://msha.ke/tapapks",
     "maintenance_mode": false,
     "maintenance_message": "Server Nebula Arena sedang pemeliharaan berkala.",
-    "show_alert_dialog": true,
+    "show_alert_dialog": false,
     "alert_title": "Pemberitahuan Server",
     "alert_message": "Selamat datang kembali! Menemukan versi game terbaru di database kami. Silakan update agar sinkron dengan global multiplayer server arena.",
     "game_assets_version": 2,
