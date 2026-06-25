@@ -1,8 +1,15 @@
 {
-  "latest_version_code": 1,
-  "latest_version_name": "1.0",
-  "version_code": 1,
-  "version_name": "1.0",
-  "force_update": false,
-  "update_message": "Silakan perbarui aplikasi Anda."
+    "latest_version_code": 2,
+    "latest_version_name": "1.2",
+    "force_update": true,
+    "update_title": "Game Update Diperlukan",
+    "update_message": "silakan update",
+    "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.aistudio.gamelauncher.kqjvnd",
+    "maintenance_mode": false,
+    "maintenance_message": "Server Nebula Arena sedang pemeliharaan berkala.",
+    "show_alert_dialog": true,
+    "alert_title": "Pemberitahuan Server",
+    "alert_message": "silakan update",
+    "game_assets_version": 2,
+    "game_assets_url": "https:\/\/raw.githubusercontent.com\/yakugan10a\/nebula-arena\/main\/index.html"
 }
