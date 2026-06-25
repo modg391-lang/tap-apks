@@ -1,10 +1,10 @@
 {
     "latest_version_name": "1.2",
-    "force_update": false,
+    "force_update": true,
     "update_title": "Game Update Diperlukan",
     "update_message": "silakan update",
     "download_url": "https://msha.ke/tapapks",
-    "show_alert_dialog": true,
-    "game_assets_version": 2,
+    "show_alert_dialog": false,
+    "game_assets_version": 1,
     "game_assets_url": "https:\/\/raw.githubusercontent.com\/yakugan10a\/nebula-arena\/main\/index.html"
 }
