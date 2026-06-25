@@ -1,5 +1,8 @@
 {
-  "latest_version_name": "1.20",
-  "force_update": true,
-  "update_message": "WRITE"
+  "latest_version_code": 1,
+  "latest_version_name": "1.0",
+  "version_code": 1,
+  "version_name": "1.0",
+  "force_update": false,
+  "update_message": "Silakan perbarui aplikasi Anda."
 }
