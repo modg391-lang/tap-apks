@@ -4,5 +4,5 @@
   "message": "Versi terbaru telah tersedia. Silakan update untuk fitur terbaru dan perbaikan bug.",
   "buttonText": "Update",
   "downloadUrl": "https://link-download-game-cacing.com/app.apk",
-  "forceUpdate": true
+  "forceUpdate": false
 }
