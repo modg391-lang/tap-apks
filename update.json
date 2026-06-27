@@ -1,8 +1,8 @@
 {
-    "versionName": "1.390",
+    "versionName": "1.0.109",
     "title": "Update Available",
     "message": "A new version of Worm Arena is available. Please update to continue enjoying the latest improvements.",
     "buttonText": "Update",
-    "downloadUrl": "https:\/\/www.google.com",
+    "downloadUrl": "https:\/\/your-download-link.com\/app.apk",
     "forceUpdate": true
 }
