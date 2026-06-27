@@ -1,8 +1,8 @@
 {
-  "versionName": "1.37633000",
-  "title": "Update Available",
-  "message": "Versi terbaru telah tersedia. 123.",
-  "buttonText": "Update",
-  "downloadUrl": "https://link-download-game-cacing.com/app.apk",
-  "forceUpdate": true"
+    "versionName": "1.30",
+    "title": "Update Available",
+    "message": "A new version of Worm Arena is available. Please update to continue enjoying the latest improvements.",
+    "buttonText": "Update",
+    "downloadUrl": "https:\/\/your-download-link.com\/app.apk",
+    "forceUpdate": true
 }
