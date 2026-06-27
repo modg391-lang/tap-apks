@@ -1,8 +1,8 @@
 {
-  "versionName": "1.37363",
+  "versionName": "1.20",
   "title": "Update Available",
   "message": "Versi terbaru telah tersedia. 123.",
   "buttonText": "Update",
   "downloadUrl": "https://link-download-game-cacing.com/app.apk",
-  "forceUpdate": false
+  "forceUpdate": true
 }
